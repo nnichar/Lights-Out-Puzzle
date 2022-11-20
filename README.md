@@ -21,6 +21,8 @@ Lights are placed in N x N grid. Each of them can be ON (1) or OFF (0). When a l
 
 ## Authors
 
-- [etnk125](https://github.com/etnk125)
-- [nnichar](https://github.com/nnichar)
-- BillyFragfart
+## Authors
+
+- Natthawee Koengfak ([etnk125](https://github.com/etnk125))
+- Nicharee Chalermsuksri ([nnichar](https://github.com/nnichar)) 
+- Wasawat Pengprakhon
