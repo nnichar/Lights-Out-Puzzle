@@ -17,7 +17,7 @@ Lights are placed in N x N grid. Each of them can be ON (1) or OFF (0). When a l
 
 ## Report
 
-- More informations about our program can be found in the file [LightsOutPuzzle_Report.pdf](https://github.com/nnichar/LightsOutPuzzle/blob/main/LightsOutPuzzle_Report.pdf) (Thai Version)
+- More informations about our program can be found in the file [Report.pdf](https://github.com/nnichar/Lights-Out-Puzzle/blob/main/Report.pdf) (Thai Version)
 
 ## Authors
 
