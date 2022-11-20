@@ -17,10 +17,10 @@ Lights are placed in N x N grid. Each of them can be ON (1) or OFF (0). When a l
 
 ## Report
 
-- More informations about our program can be found in the file [LightsOutPuzzle_Report.pdf] (https://github.com/nnichar/LightsOutPuzzle/blob/main/LightsOutPuzzle_Report.pdf)
+- More informations about our program can be found in the file [LightsOutPuzzle_Report.pdf](https://github.com/nnichar/LightsOutPuzzle/blob/main/LightsOutPuzzle_Report.pdf)
 
 ## Authors
 
-- [etnk125] (https://github.com/etnk125)
-- [nnichar] (https://github.com/nnichar)
+- [etnk125](https://github.com/etnk125)
+- [nnichar](https://github.com/nnichar)
 - BillyFragfart
